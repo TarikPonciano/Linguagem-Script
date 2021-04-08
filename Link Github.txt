@@ -1,0 +1,5 @@
+Todas as atividades podem ser encontradas nos seguintes Links:
+
+https://github.com/TarikPonciano/Linguagem-Script
+
+https://github.com/TarikPonciano/Prototipo-Linguagem-Script
